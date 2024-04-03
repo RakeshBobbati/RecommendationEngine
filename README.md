@@ -1,5 +1,6 @@
 # Recommendation Engine
 Game Recomendation with Catboost (RFM - Recency,Frequency and Monetization)
+This is a Zupee hiring assignment for presentation round for data scientist role (year 2023). 
 
 ## install requirements from requirements.txt
     pip install -r requiremetns.txt
